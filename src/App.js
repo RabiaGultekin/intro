@@ -4,7 +4,7 @@ import Navi from "./Navi";
 import ProductList from "./ProductList";
 
 function App() {
-  let productInfo = {title:"Product List Here"}
+  let productInfo = {title:"Product List Here 123"}
   let categoryInfo = {title:"Category List Here"}
   return (
     <div>
